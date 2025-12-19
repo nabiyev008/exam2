@@ -1,0 +1,41 @@
+h1{
+    background-color: darkviolet;
+    border:solid;
+    border-radius: 15px;
+    text-align: center;
+}
+i{
+    color: red;
+}
+h3{color: green;}
+h2{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 750px;
+}
+label{
+    color: green;
+}
+input{
+   width: 1200px;
+}
+button{
+    color: rgb(241, 243, 246);
+    width: 150px;
+    background-color: cornflowerblue;
+}
+table{
+    color: white;
+    width: 750px;
+    height: 200px;
+}
+caption{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    height: 25px;
+}
